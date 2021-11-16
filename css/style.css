@@ -139,7 +139,7 @@ h4 {
 	font-size: 22px;
 }
 h5 {
-	font-size: 18px;
+	font-size: 22px;
 }
 h6 {
 	font-size: 16px;
@@ -2284,13 +2284,13 @@ ul.minicart .cart-price .new {
 .coming-match-time .time-count span {
 	display: block;
 	text-align: center;
-	font-size: 19px;
+	font-size: 22px;
 	font-weight: 800;
 	line-height: 1;
 	margin-bottom: 5px;
 }
 .coming-match-time .time-count {
-	font-size: 11px;
+	font-size: 18px;
 	font-weight: 800;
 	text-transform: uppercase;
 	padding-right: 22px;
@@ -4843,7 +4843,7 @@ ul.minicart .cart-price .new {
 .fw-quick-link ul li a:hover,
 .fw-title h3 > span,
 .third-copyright-wrap .copyright-text p a {
-	color: #750101;
+	color: #0983E2;
 }
 .fw-title h3 {
     font-size: 26px;
